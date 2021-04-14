@@ -5,7 +5,7 @@
 - [ ] agregration
 - [ ] gabut express 3
 - [ ] gabut redux
-- [ ] css ws3
+- [x] css ws3
 - [ ] sass
 - [ ] slicing ui design
 - [ ] farmwork: bootstarp, tailwind
