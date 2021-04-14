@@ -1,7 +1,7 @@
 # roadmap
 
 
-- [x] mongodb fll sql like. subdoc
+- [ ] mongodb fll sql like. subdoc
 - [x] agregration
 - [x] gabut express 3
 - [x] gabut redux
