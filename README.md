@@ -11,3 +11,6 @@
 - [ ] farmwork: bootstarp, tailwind
 - [ ] slicing ui design with framework
 - [ ] automatic testing
+- [ ] projek olshop ci mysql
+- [ ] projek olshop ci mongodb
+- [ ] catatan 2
